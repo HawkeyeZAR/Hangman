@@ -12,7 +12,7 @@ Just click on start, then start guessing :-)
 
 > **Note:**
 >
-> - The word you need to guess is randomly selected from a custom dictionery containing 2000 words.
+> - The word you need to guess is randomly selected from a custom dictionary containing 2000 words.
 > - It can be challenging at times, as some words are harder to guess.
 
 
