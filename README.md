@@ -11,7 +11,7 @@ This version of the Hangman game was written in python 3.5 and using tkinter
 Just click on start, then start guessing :-)
 
 > **Note:**
-
+>
 > - The word you need to guess is randomly selected from a custom dictionery containing 2000 words.
 > - It can be challenging at times, as some words are harder to guess.
 
